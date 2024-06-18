@@ -1,0 +1,3 @@
+H:\Applications\JetBrains\JetBrains_Applications\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\git_array_class_encapsulation.dir/objects.a
+H:\Applications\msys64\mingw64\bin\llvm-ar.exe qc CMakeFiles\git_array_class_encapsulation.dir/objects.a @CMakeFiles\git_array_class_encapsulation.dir\objects1.rsp
+H:\Applications\msys64\mingw64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\git_array_class_encapsulation.dir/objects.a -Wl,--no-whole-archive -o git_array_class_encapsulation.exe -Wl,--out-implib,libgit_array_class_encapsulation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\git_array_class_encapsulation.dir\linkLibs.rsp
