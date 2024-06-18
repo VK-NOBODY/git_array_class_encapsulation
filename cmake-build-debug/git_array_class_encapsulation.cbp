@@ -81,6 +81,9 @@
 		<Unit filename="H:/Applications/JetBrains/JetBrains_Documents/JetBrains_CLionProjects/git_array_class_encapsulation/main.cpp">
 			<Option target="git_array_class_encapsulation"/>
 		</Unit>
+		<Unit filename="H:/Applications/JetBrains/JetBrains_Documents/JetBrains_CLionProjects/git_array_class_encapsulation/my_array.hpp">
+			<Option target="git_array_class_encapsulation"/>
+		</Unit>
 		<Unit filename="H:/Applications/JetBrains/JetBrains_Documents/JetBrains_CLionProjects/git_array_class_encapsulation/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

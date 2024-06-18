@@ -1,5 +1,6 @@
 CMakeFiles/git_array_class_encapsulation.dir/main.cpp.obj: \
   H:/Applications/JetBrains/JetBrains_Documents/JetBrains_CLionProjects/git_array_class_encapsulation/main.cpp \
+  H:/Applications/JetBrains/JetBrains_Documents/JetBrains_CLionProjects/git_array_class_encapsulation/my_array.hpp \
   H:/Applications/msys64/mingw64/include/c++/13.2.0/iostream \
   H:/Applications/msys64/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
   H:/Applications/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
